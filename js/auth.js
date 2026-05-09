@@ -31,6 +31,7 @@ function setLocalUser(user) {
 function clearLocalUser() {
   localStorage.removeItem('pp_current_user');
   localStorage.removeItem('pp_user');
+  localStorage.removeItem('pp_dsa_progress');
 }
 
 // Save extra user profile info to Firestore
@@ -63,11 +64,44 @@ document.addEventListener('DOMContentLoaded', () => {
 
 // ─── AUTH STATE GUARD ───────────────────────────────────
 // Runs on every page — syncs Firebase session → localStorage
-onAuthStateChanged(auth, (user) => {
+onAuthStateChanged(auth, async (user) => {
   if (user) {
     setLocalUser(user);
+    // Fetch DSA progress from Firestore
+    try {
+      const docRef = doc(db, 'users', user.uid);
+      const docSnap = await getDoc(docRef);
+      let progress = {};
+      if (docSnap.exists() && docSnap.data().dsa_progress) {
+        progress = docSnap.data().dsa_progress;
+      }
+      localStorage.setItem('pp_dsa_progress', JSON.stringify(progress));
+      
+      // Sync memory state
+      if (window.DSA_PROBLEMS) {
+        window.DSA_PROBLEMS.forEach(p => { p.done = !!progress[p.id]; });
+      }
+      
+      // Refresh UI if necessary
+      if (typeof window.renderDSATopics === 'function') {
+        window.renderDSATopics();
+        window.renderDSATable();
+        window.updateDSAProgress();
+      }
+    } catch (e) {
+      console.warn("Could not fetch user DSA progress", e);
+    }
   } else {
     clearLocalUser();
+    // Clear memory state
+    if (window.DSA_PROBLEMS) {
+      window.DSA_PROBLEMS.forEach(p => p.done = false);
+    }
+    if (typeof window.renderDSATopics === 'function') {
+      window.renderDSATopics();
+      window.renderDSATable();
+      window.updateDSAProgress();
+    }
   }
 });
 

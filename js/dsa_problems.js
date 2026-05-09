@@ -21,7 +21,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/contains-duplicate/",
-    "done": true
+    "done": false
   },
   {
     "id": 4,
@@ -29,7 +29,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/group-anagrams/",
-    "done": true
+    "done": false
   },
   {
     "id": 5,
@@ -37,7 +37,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/top-k-frequent-elements/",
-    "done": true
+    "done": false
   },
   {
     "id": 6,
@@ -45,7 +45,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/product-of-array-except-self/",
-    "done": true
+    "done": false
   },
   {
     "id": 7,
@@ -93,7 +93,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/container-with-most-water/",
-    "done": true
+    "done": false
   },
   {
     "id": 13,
@@ -165,7 +165,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/min-stack/",
-    "done": true
+    "done": false
   },
   {
     "id": 22,
@@ -173,7 +173,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/evaluate-reverse-polish-notation/",
-    "done": true
+    "done": false
   },
   {
     "id": 23,
@@ -229,7 +229,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Binary Search",
     "link": "https://leetcode.com/problems/koko-eating-bananas/",
-    "done": true
+    "done": false
   },
   {
     "id": 30,
@@ -237,7 +237,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Binary Search",
     "link": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/",
-    "done": true
+    "done": false
   },
   {
     "id": 31,
@@ -253,7 +253,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Binary Search",
     "link": "https://leetcode.com/problems/time-based-key-value-store/",
-    "done": true
+    "done": false
   },
   {
     "id": 33,
@@ -269,7 +269,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/reverse-linked-list/",
-    "done": true
+    "done": false
   },
   {
     "id": 35,
@@ -309,7 +309,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/add-two-numbers/",
-    "done": true
+    "done": false
   },
   {
     "id": 40,
@@ -333,7 +333,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/lru-cache/",
-    "done": true
+    "done": false
   },
   {
     "id": 43,
@@ -357,7 +357,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Trees",
     "link": "https://leetcode.com/problems/invert-binary-tree/",
-    "done": true
+    "done": false
   },
   {
     "id": 46,
@@ -381,7 +381,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Trees",
     "link": "https://leetcode.com/problems/balanced-binary-tree/",
-    "done": true
+    "done": false
   },
   {
     "id": 49,
@@ -437,7 +437,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Trees",
     "link": "https://leetcode.com/problems/validate-binary-search-tree/",
-    "done": true
+    "done": false
   },
   {
     "id": 56,
@@ -453,7 +453,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Trees",
     "link": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/",
-    "done": true
+    "done": false
   },
   {
     "id": 58,
@@ -461,7 +461,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Trees",
     "link": "https://leetcode.com/problems/binary-tree-maximum-path-sum/",
-    "done": true
+    "done": false
   },
   {
     "id": 59,
@@ -477,7 +477,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/number-of-islands/",
-    "done": true
+    "done": false
   },
   {
     "id": 61,
@@ -509,7 +509,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/rotting-oranges/",
-    "done": true
+    "done": false
   },
   {
     "id": 65,
@@ -565,7 +565,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/climbing-stairs/",
-    "done": true
+    "done": false
   },
   {
     "id": 72,
@@ -637,7 +637,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/word-break/",
-    "done": true
+    "done": false
   },
   {
     "id": 81,
@@ -677,7 +677,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/",
-    "done": true
+    "done": false
   },
   {
     "id": 86,
@@ -693,7 +693,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/target-sum/",
-    "done": true
+    "done": false
   },
   {
     "id": 88,
@@ -733,7 +733,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/burst-balloons/",
-    "done": true
+    "done": false
   },
   {
     "id": 93,
@@ -765,7 +765,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Greedy",
     "link": "https://leetcode.com/problems/problem-96/",
-    "done": true
+    "done": false
   },
   {
     "id": 97,
@@ -773,7 +773,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/problem-97/",
-    "done": true
+    "done": false
   },
   {
     "id": 98,
@@ -805,7 +805,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Binary Search",
     "link": "https://leetcode.com/problems/problem-101/",
-    "done": true
+    "done": false
   },
   {
     "id": 102,
@@ -821,7 +821,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Trees",
     "link": "https://leetcode.com/problems/problem-103/",
-    "done": true
+    "done": false
   },
   {
     "id": 104,
@@ -845,7 +845,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Backtracking",
     "link": "https://leetcode.com/problems/problem-106/",
-    "done": true
+    "done": false
   },
   {
     "id": 107,
@@ -869,7 +869,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/problem-109/",
-    "done": true
+    "done": false
   },
   {
     "id": 110,
@@ -917,7 +917,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Trees",
     "link": "https://leetcode.com/problems/problem-115/",
-    "done": true
+    "done": false
   },
   {
     "id": 116,
@@ -989,7 +989,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/problem-124/",
-    "done": true
+    "done": false
   },
   {
     "id": 125,
@@ -997,7 +997,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Binary Search",
     "link": "https://leetcode.com/problems/problem-125/",
-    "done": true
+    "done": false
   },
   {
     "id": 126,
@@ -1045,7 +1045,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Heap / Priority Queue",
     "link": "https://leetcode.com/problems/problem-131/",
-    "done": true
+    "done": false
   },
   {
     "id": 132,
@@ -1061,7 +1061,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/problem-133/",
-    "done": true
+    "done": false
   },
   {
     "id": 134,
@@ -1069,7 +1069,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-134/",
-    "done": true
+    "done": false
   },
   {
     "id": 135,
@@ -1101,7 +1101,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/problem-138/",
-    "done": true
+    "done": false
   },
   {
     "id": 139,
@@ -1125,7 +1125,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/problem-141/",
-    "done": true
+    "done": false
   },
   {
     "id": 142,
@@ -1181,7 +1181,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/problem-148/",
-    "done": true
+    "done": false
   },
   {
     "id": 149,
@@ -1237,7 +1237,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Heap / Priority Queue",
     "link": "https://leetcode.com/problems/problem-155/",
-    "done": true
+    "done": false
   },
   {
     "id": 156,
@@ -1253,7 +1253,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/problem-157/",
-    "done": true
+    "done": false
   },
   {
     "id": 158,
@@ -1317,7 +1317,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/problem-165/",
-    "done": true
+    "done": false
   },
   {
     "id": 166,
@@ -1333,7 +1333,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Heap / Priority Queue",
     "link": "https://leetcode.com/problems/problem-167/",
-    "done": true
+    "done": false
   },
   {
     "id": 168,
@@ -1341,7 +1341,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Greedy",
     "link": "https://leetcode.com/problems/problem-168/",
-    "done": true
+    "done": false
   },
   {
     "id": 169,
@@ -1373,7 +1373,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/problem-172/",
-    "done": true
+    "done": false
   },
   {
     "id": 173,
@@ -1413,7 +1413,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/problem-177/",
-    "done": true
+    "done": false
   },
   {
     "id": 178,
@@ -1437,7 +1437,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Greedy",
     "link": "https://leetcode.com/problems/problem-180/",
-    "done": true
+    "done": false
   },
   {
     "id": 181,
@@ -1445,7 +1445,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/problem-181/",
-    "done": true
+    "done": false
   },
   {
     "id": 182,
@@ -1453,7 +1453,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-182/",
-    "done": true
+    "done": false
   },
   {
     "id": 183,
@@ -1461,7 +1461,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-183/",
-    "done": true
+    "done": false
   },
   {
     "id": 184,
@@ -1501,7 +1501,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/problem-188/",
-    "done": true
+    "done": false
   },
   {
     "id": 189,
@@ -1517,7 +1517,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Backtracking",
     "link": "https://leetcode.com/problems/problem-190/",
-    "done": true
+    "done": false
   },
   {
     "id": 191,
@@ -1533,7 +1533,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Greedy",
     "link": "https://leetcode.com/problems/problem-192/",
-    "done": true
+    "done": false
   },
   {
     "id": 193,
@@ -1541,7 +1541,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/problem-193/",
-    "done": true
+    "done": false
   },
   {
     "id": 194,
@@ -1557,7 +1557,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-195/",
-    "done": true
+    "done": false
   },
   {
     "id": 196,
@@ -1629,7 +1629,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Greedy",
     "link": "https://leetcode.com/problems/problem-204/",
-    "done": true
+    "done": false
   },
   {
     "id": 205,
@@ -1645,7 +1645,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-206/",
-    "done": true
+    "done": false
   },
   {
     "id": 207,
@@ -1693,7 +1693,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/problem-212/",
-    "done": true
+    "done": false
   },
   {
     "id": 213,
@@ -1701,7 +1701,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/problem-213/",
-    "done": true
+    "done": false
   },
   {
     "id": 214,
@@ -1725,7 +1725,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Greedy",
     "link": "https://leetcode.com/problems/problem-216/",
-    "done": true
+    "done": false
   },
   {
     "id": 217,
@@ -1733,7 +1733,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/problem-217/",
-    "done": true
+    "done": false
   },
   {
     "id": 218,
@@ -1789,7 +1789,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/problem-224/",
-    "done": true
+    "done": false
   },
   {
     "id": 225,
@@ -1869,7 +1869,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/problem-234/",
-    "done": true
+    "done": false
   },
   {
     "id": 235,
@@ -1885,7 +1885,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/problem-236/",
-    "done": true
+    "done": false
   },
   {
     "id": 237,
@@ -1917,7 +1917,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Greedy",
     "link": "https://leetcode.com/problems/problem-240/",
-    "done": true
+    "done": false
   },
   {
     "id": 241,
@@ -1933,7 +1933,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-242/",
-    "done": true
+    "done": false
   },
   {
     "id": 243,
@@ -1941,7 +1941,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-243/",
-    "done": true
+    "done": false
   },
   {
     "id": 244,
@@ -1957,7 +1957,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Binary Search",
     "link": "https://leetcode.com/problems/problem-245/",
-    "done": true
+    "done": false
   },
   {
     "id": 246,
@@ -1965,7 +1965,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/problem-246/",
-    "done": true
+    "done": false
   },
   {
     "id": 247,
@@ -1989,7 +1989,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/problem-249/",
-    "done": true
+    "done": false
   },
   {
     "id": 250,
@@ -2029,7 +2029,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-254/",
-    "done": true
+    "done": false
   },
   {
     "id": 255,
@@ -2037,7 +2037,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-255/",
-    "done": true
+    "done": false
   },
   {
     "id": 256,
@@ -2061,7 +2061,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/problem-258/",
-    "done": true
+    "done": false
   },
   {
     "id": 259,
@@ -2077,7 +2077,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/problem-260/",
-    "done": true
+    "done": false
   },
   {
     "id": 261,
@@ -2101,7 +2101,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Heap / Priority Queue",
     "link": "https://leetcode.com/problems/problem-263/",
-    "done": true
+    "done": false
   },
   {
     "id": 264,
@@ -2117,7 +2117,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Arrays & Hashing",
     "link": "https://leetcode.com/problems/problem-265/",
-    "done": true
+    "done": false
   },
   {
     "id": 266,
@@ -2141,7 +2141,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/problem-268/",
-    "done": true
+    "done": false
   },
   {
     "id": 269,
@@ -2205,7 +2205,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Greedy",
     "link": "https://leetcode.com/problems/problem-276/",
-    "done": true
+    "done": false
   },
   {
     "id": 277,
@@ -2237,7 +2237,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/problem-280/",
-    "done": true
+    "done": false
   },
   {
     "id": 281,
@@ -2253,7 +2253,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/problem-282/",
-    "done": true
+    "done": false
   },
   {
     "id": 283,
@@ -2341,7 +2341,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Binary Search",
     "link": "https://leetcode.com/problems/problem-293/",
-    "done": true
+    "done": false
   },
   {
     "id": 294,
@@ -2349,7 +2349,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/problem-294/",
-    "done": true
+    "done": false
   },
   {
     "id": 295,
@@ -2389,7 +2389,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Heap / Priority Queue",
     "link": "https://leetcode.com/problems/problem-299/",
-    "done": true
+    "done": false
   },
   {
     "id": 300,
@@ -2421,7 +2421,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-303/",
-    "done": true
+    "done": false
   },
   {
     "id": 304,
@@ -2429,7 +2429,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/problem-304/",
-    "done": true
+    "done": false
   },
   {
     "id": 305,
@@ -2469,7 +2469,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/problem-309/",
-    "done": true
+    "done": false
   },
   {
     "id": 310,
@@ -2477,7 +2477,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Backtracking",
     "link": "https://leetcode.com/problems/problem-310/",
-    "done": true
+    "done": false
   },
   {
     "id": 311,
@@ -2517,7 +2517,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-315/",
-    "done": true
+    "done": false
   },
   {
     "id": 316,
@@ -2541,7 +2541,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/problem-318/",
-    "done": true
+    "done": false
   },
   {
     "id": 319,
@@ -2573,7 +2573,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Backtracking",
     "link": "https://leetcode.com/problems/problem-322/",
-    "done": true
+    "done": false
   },
   {
     "id": 323,
@@ -2581,7 +2581,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Heap / Priority Queue",
     "link": "https://leetcode.com/problems/problem-323/",
-    "done": true
+    "done": false
   },
   {
     "id": 324,
@@ -2605,7 +2605,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-326/",
-    "done": true
+    "done": false
   },
   {
     "id": 327,
@@ -2613,7 +2613,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-327/",
-    "done": true
+    "done": false
   },
   {
     "id": 328,
@@ -2677,7 +2677,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Heap / Priority Queue",
     "link": "https://leetcode.com/problems/problem-335/",
-    "done": true
+    "done": false
   },
   {
     "id": 336,
@@ -2701,7 +2701,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-338/",
-    "done": true
+    "done": false
   },
   {
     "id": 339,
@@ -2749,7 +2749,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/problem-344/",
-    "done": true
+    "done": false
   },
   {
     "id": 345,
@@ -2805,7 +2805,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-351/",
-    "done": true
+    "done": false
   },
   {
     "id": 352,
@@ -2829,7 +2829,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Linked List",
     "link": "https://leetcode.com/problems/problem-354/",
-    "done": true
+    "done": false
   },
   {
     "id": 355,
@@ -2893,7 +2893,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-362/",
-    "done": true
+    "done": false
   },
   {
     "id": 363,
@@ -2949,7 +2949,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Dynamic Programming",
     "link": "https://leetcode.com/problems/problem-369/",
-    "done": true
+    "done": false
   },
   {
     "id": 370,
@@ -2957,7 +2957,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Hard",
     "topic": "Backtracking",
     "link": "https://leetcode.com/problems/problem-370/",
-    "done": true
+    "done": false
   },
   {
     "id": 371,
@@ -3013,7 +3013,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Binary Search",
     "link": "https://leetcode.com/problems/problem-377/",
-    "done": true
+    "done": false
   },
   {
     "id": 378,
@@ -3037,7 +3037,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/problem-380/",
-    "done": true
+    "done": false
   },
   {
     "id": 381,
@@ -3093,7 +3093,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-387/",
-    "done": true
+    "done": false
   },
   {
     "id": 388,
@@ -3125,7 +3125,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Trees",
     "link": "https://leetcode.com/problems/problem-391/",
-    "done": true
+    "done": false
   },
   {
     "id": 392,
@@ -3149,7 +3149,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Backtracking",
     "link": "https://leetcode.com/problems/problem-394/",
-    "done": true
+    "done": false
   },
   {
     "id": 395,
@@ -3157,7 +3157,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Heap / Priority Queue",
     "link": "https://leetcode.com/problems/problem-395/",
-    "done": true
+    "done": false
   },
   {
     "id": 396,
@@ -3197,7 +3197,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/problem-400/",
-    "done": true
+    "done": false
   },
   {
     "id": 401,
@@ -3229,7 +3229,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Easy",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/problem-404/",
-    "done": true
+    "done": false
   },
   {
     "id": 405,
@@ -3301,7 +3301,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Binary Search",
     "link": "https://leetcode.com/problems/problem-413/",
-    "done": true
+    "done": false
   },
   {
     "id": 414,
@@ -3325,7 +3325,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Graphs",
     "link": "https://leetcode.com/problems/problem-416/",
-    "done": true
+    "done": false
   },
   {
     "id": 417,
@@ -3373,7 +3373,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-422/",
-    "done": true
+    "done": false
   },
   {
     "id": 423,
@@ -3477,7 +3477,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Sliding Window",
     "link": "https://leetcode.com/problems/problem-435/",
-    "done": true
+    "done": false
   },
   {
     "id": 436,
@@ -3485,7 +3485,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Stack",
     "link": "https://leetcode.com/problems/problem-436/",
-    "done": true
+    "done": false
   },
   {
     "id": 437,
@@ -3565,7 +3565,7 @@ window.DSA_PROBLEMS = [
     "difficulty": "Medium",
     "topic": "Two Pointers",
     "link": "https://leetcode.com/problems/problem-446/",
-    "done": true
+    "done": false
   },
   {
     "id": 447,

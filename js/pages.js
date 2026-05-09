@@ -640,14 +640,35 @@ window.renderDSATopics = () => {
     grid.innerHTML = html;
 };
 
-window.toggleProblemDone = (id) => {
+window.toggleProblemDone = async (id) => {
     const problems = window.DSA_PROBLEMS || [];
     const p = problems.find(p => p.id === id);
     if (p) {
         p.done = !p.done;
+        
+        // Update local storage
+        let progress = {};
+        try { progress = JSON.parse(localStorage.getItem('pp_dsa_progress') || '{}'); } catch(e){}
+        progress[id] = p.done;
+        localStorage.setItem('pp_dsa_progress', JSON.stringify(progress));
+        
         window.renderDSATopics();
         window.renderDSATable();
         window.updateDSAProgress();
+        
+        // Push to Firebase
+        const uStr = localStorage.getItem('pp_current_user');
+        if (uStr) {
+            try {
+                const userObj = JSON.parse(uStr);
+                const { db } = await import('./firebase-config.js');
+                const { doc, updateDoc, setDoc } = await import('https://www.gstatic.com/firebasejs/10.12.0/firebase-firestore.js');
+                const ref = doc(db, 'users', userObj.uid);
+                await setDoc(ref, { dsa_progress: progress }, { merge: true });
+            } catch (e) {
+                console.warn("Could not sync DSA progress to Firebase", e);
+            }
+        }
     }
 };
 
