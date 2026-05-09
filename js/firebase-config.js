@@ -7,13 +7,13 @@ import { getFirestore } from "https://www.gstatic.com/firebasejs/10.12.0/firebas
 import { getAnalytics } from "https://www.gstatic.com/firebasejs/10.12.0/firebase-analytics.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDFMYmZusnC6Un3QW3to1rjaxDV-kamD_I",
-  authDomain: "placement-ed155.firebaseapp.com",
-  projectId: "placement-ed155",
-  storageBucket: "placement-ed155.firebasestorage.app",
-  messagingSenderId: "816104176592",
-  appId: "1:816104176592:web:dfb9ecf13315c367d817d5",
-  measurementId: "G-TBX7VGH957"
+  apiKey: "AIzaSyDp9gGsoyjQwosL-iAzUwBcEseuJQhv14o",
+  authDomain: "njkflaks.firebaseapp.com",
+  projectId: "njkflaks",
+  storageBucket: "njkflaks.firebasestorage.app",
+  messagingSenderId: "118645991651",
+  appId: "1:118645991651:web:c1d1b9347497361a65bdd6",
+  measurementId: "G-9WCWBEQ21Q"
 };
 
 const app      = initializeApp(firebaseConfig);
